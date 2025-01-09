@@ -1,0 +1,19 @@
+
+# VSCode settings
+.vscode/
+
+# Intellij settings
+.idea/
+
+# Terraform
+.terraform/
+terraform.tfstate*
+*.tfstate
+*.terraform.lock*
+*.tfvars
+
+# Maven
+
+target/
+.metals/
+.scala-build/
