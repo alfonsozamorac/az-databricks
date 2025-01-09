@@ -15,7 +15,7 @@ The Azure CLI must be set up and credentials configured
 1. Replace and export with your correct value:
 
   ```bash
-  export TF_VAR_resourge="?"
+  export TF_VAR_resource_group="?"
   ```
 
 2. Create databricks workspace:
